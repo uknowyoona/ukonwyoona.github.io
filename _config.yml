@@ -6,7 +6,7 @@ meta_description: ''
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
-baseurl: '/'
+baseurl: '/ukonwyoona.github.io/'
 email: 'aceyk87@naver.com'
 google_analytics: ''
 disqus: ''
