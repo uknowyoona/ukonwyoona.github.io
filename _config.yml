@@ -3,10 +3,11 @@ name: 'U know? Dev Yoona'
 title: ''
 description: 'Yoona's dev log'
 meta_description: ''
+url: "https://uknowyoona.github.io"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
-baseurl: '/ukonwyoona.github.io/'
+baseurl: "/"
 email: 'aceyk87@naver.com'
 google_analytics: ''
 disqus: ''
