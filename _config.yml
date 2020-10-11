@@ -1,0 +1,44 @@
+# Site
+name: 'U know? Dev Yoona'
+title: ''
+description: 'Yoona's dev log'
+meta_description: ''
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+paginate: 12
+baseurl: '/'
+email: 'aceyk87@naver.com'
+google_analytics: ''
+disqus: ''
+sharethis: ''
+
+# Authors
+authors:
+  Yoona:
+    name: Yoona
+    display_name: Yoona
+    gravatar:
+    email: aceyk87@naver.com
+    web: https://uknowyoona.github.io
+    twitter:
+    description: 'Dev Yoona'
+
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+        
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Other
+markdown: kramdown
+highlighter: rouge
