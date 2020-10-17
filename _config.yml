@@ -1,28 +1,27 @@
 # Site
-name: 'uknowyoona'
-title: ''
-description: 'Yoona's dev log'
-meta_description: ''
+name: "uknowyoona"
+title: ""
+description: "Yoona's dev log"
+meta_description: ""
 url: https://uknowyoona.github.io
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
-paginate: 12
 baseurl: ""
-email: 'aceyk87@naver.com'
-google_analytics: ''
-disqus: ''
-sharethis: ''
+repository: "uknowyoona/uknowyoona.github.io"
+paginate: 12
+email: "aceyk87@naver.com"
+google_analytics: ""
+disqus: ""
+sharethis: ""
 
 # Authors
 authors:
   Yoona:
-    name: Yoona
-    display_name: Yoona
-    gravatar:
-    email: aceyk87@naver.com
-    web: https://uknowyoona.github.io
-    twitter:
-    description: 'Dev Yoona'
+    name: "Yoona"
+    display_name: "Yoona"
+    gravatar: ""
+    email: "aceyk87@naver.com"
+    web: ""
+    twitter: ""
+    description: "Dev Yoona"
 
 # Plugins
 plugins: 
