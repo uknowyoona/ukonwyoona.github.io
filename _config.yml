@@ -3,7 +3,6 @@ name: "uknowyoona"
 title: ""
 description: "Yoona's dev log"
 meta_description: ""
-url: https://uknowyoona.github.io
 baseurl: ""
 repository: "uknowyoona/uknowyoona.github.io"
 paginate: 12
