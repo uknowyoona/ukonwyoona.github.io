@@ -3,7 +3,7 @@ name: "uknowyoona"
 title: ""
 description: "Yoona's dev log"
 meta_description: ""
-baseurl: ""
+baseurl: "/"
 repository: ""
 paginate: 12
 email: "aceyk87@naver.com"
